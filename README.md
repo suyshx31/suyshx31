@@ -1,4 +1,4 @@
-<h1 align="center">Hello, नमस्कार, Ciao, Hola, Kon'nichiwa, Hallo</h1>
+<h1 align="center">Hello, नमस्कार, Ciao, Hola, こんにちは, Hallo</h1>
 
 <div align ="center">
   
