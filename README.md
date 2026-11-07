@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hello, नमस्कार,こんにちは, Hallo, Ciao</h1>
+<h1 align="center">Hallo, नमस्कार,こんにちは, Olá, Ciao</h1>
 
 <h2 align="left"> About Me</h2>
 
