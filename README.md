@@ -44,6 +44,27 @@ I'm always learning, building, and looking for opportunities to create software 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 </p>
 
+<h2 align="center">🚀 Key Projects & Research</h2>
+
+| Title | Repository | Demo | Paper | Tech Stack |
+|-------|------------|------|-------|------------|
+| **Digital Coating Inspection App**<br/><sub>Industrial QC app with multi-stage workflows & PDF reports</sub> | [Repo](https://github.com/suyshx31/Coating-app-Prototype-) | NA | NA | Expo/React Native, FastAPI, PostgreSQL, TypeScript |
+| **Transactional Banking Backend**<br/><sub>REST API with atomic fund transfers</sub> | [Repo](https://github.com/suyshx31/Banking-Backend-Prototype) | NA | NA | Java 17, Spring Boot, Spring Data JPA, MySQL |
+| **Aerial Traffic Analysis**<br/><sub>Built under a live hackathon deadline</sub> | [Repo](https://github.com/suyshx31/Traffic_Analysis_Agent) | NA | NA | YOLOv8, BoT-SORT, PyTorch, OpenCV, Vercel |
+| **ShramPay**<br/><sub>Web3 hackathon – per-second wages on Monad Testnet</sub> | [Repo](https://github.com/suyshx31/shrampay) | NA | NA | JavaScript, Monad Testnet |
+| **QWAC Trust Chain Verifier**<br/><sub>Research demo – eIDAS 2.0 certificate trust (VIT, 2026)</sub> | [Repo](https://github.com/suyshx31/QWAC-Trust-Chain-Verifier) | NA | NA | HTML, JavaScript, crt.sh, EU Trust List |
+| **Deepfake Detection**<br/><sub>Submitted to IEEE ESCI 2025</sub> | [Repo](https://github.com/suyshx31/Deepfake-Detection-Extension) | NA | NA | Python, PyTorch, Keras, Streamlit |
+
+<h2 align="center">📜 Certifications</h2>
+
+<p align="center">
+  <a href="PASTE-YOUR-CERTIFICATE-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/IBM-Java%20Full%20Stack%20Developer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
+</p>
+
+
+
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
