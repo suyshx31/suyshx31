@@ -4,18 +4,18 @@
 
 </div>
 
-<h1 align="center">Hello,こんにちは, नमस्कार, Hallo, Ciao</h1>
+<h1 align="center">Hello, नमस्कार,こんにちは, Hallo, Ciao</h1>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="left"> About Me</h2>
 
-<p align="center">
+<p align="left">
 Hi, I'm <b>Suyash Sawant</b>, a Computer Engineering graduate from <b>Vishwakarma Institute of Technology, Pune</b>.<br/>
 I enjoy building <b>scalable backend systems</b> with Java, Spring Boot and FastAPI, with a focus on clean design and data reliability.<br/>
 I'm also deeply interested in <b>AI/ML and Computer Vision</b>, exploring deep learning with PyTorch, OpenCV and YOLO.<br/>
 I'm always learning, building, and looking for opportunities to create software that solves real-world problems.
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left"> Tech Stack 🛠️</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -44,7 +44,7 @@ I'm always learning, building, and looking for opportunities to create software 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 </p>
 
-<h2 align="center">🚀 Key Projects & Research</h2>
+<h2 align="left">🚀 Key Projects & Research</h2>
 
 | Title | Repository | Demo | Paper | Tech Stack |
 |-------|------------|------|-------|------------|
@@ -55,7 +55,7 @@ I'm always learning, building, and looking for opportunities to create software 
 | **QWAC Trust Chain Verifier**<br/><sub>Research demo – eIDAS 2.0 certificate trust (VIT, 2026)</sub> | [Repo](https://github.com/suyshx31/QWAC-Trust-Chain-Verifier) | NA | NA | HTML, JavaScript, crt.sh, EU Trust List |
 | **Deepfake Detection**<br/><sub>Submitted to IEEE ESCI 2025</sub> | [Repo](https://github.com/suyshx31/Deepfake-Detection-Extension) | NA | NA | Python, PyTorch, Keras, Streamlit |
 
-<h2 align="center">📜 Certifications</h2>
+<h2 align="left">📜 Certifications</h2>
 
 <p align="center">
   <a href="PASTE-YOUR-CERTIFICATE-LINK-HERE" target="_blank">
@@ -64,8 +64,16 @@ I'm always learning, building, and looking for opportunities to create software 
 </p>
 
 
+<h2 align="left"> Profile Stats📈</h2>
 
-<h2 align="center">📫 Connect with me</h2>
+<a href="https://gitscore.live/suyshx31">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/suyshx31?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/suyshx31?style=card" alt="GitScore for suyshx31" />
+  </picture>
+</a>
+
+<h2 align="left">📫 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suyash3134/" target="_blank">
@@ -74,4 +82,11 @@ I'm always learning, building, and looking for opportunities to create software 
   <a href="mailto:suyash313004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<br/>
+
+<p align="center">
+  ⭐ Star this repository if you found it helpful!<br/>
+  💡 Open to collaborations and exciting opportunities!
 </p>
