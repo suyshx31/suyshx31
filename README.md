@@ -77,7 +77,7 @@ I'm always learning, building, and looking for opportunities to create software 
 <a href="https://gitscore.live/suyshx31">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/suyshx31?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/suyshx31?style=card" alt="GitScore for suyshx31" />
+    <img src= "[![GitScore for suyshx31](https://gitscore.live/api/badge/suyshx31)](https://gitscore.live/suyshx31)" />
   </picture>
 </a>
 
