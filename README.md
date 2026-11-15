@@ -95,6 +95,6 @@ I'm always learning, building, and looking for opportunities to create software 
 <br/>
 
 <p align="center">
-  ⭐ Star this repository if you found it helpful!<br/>
+  ⭐ Star the repository if you found any helpful!<br/>
   💡 Open to collaborations and exciting opportunities!
 </p>
