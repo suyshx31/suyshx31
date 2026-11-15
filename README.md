@@ -55,6 +55,14 @@ I'm always learning, building, and looking for opportunities to create software 
 | **QWAC Trust Chain Verifier**<br/><sub>Research demo – eIDAS 2.0 certificate trust (VIT, 2026)</sub> | [Repo](https://github.com/suyshx31/QWAC-Trust-Chain-Verifier) | NA | NA | HTML, JavaScript, crt.sh, EU Trust List |
 | **Deepfake Detection**<br/><sub>Submitted to IEEE ESCI 2025</sub> | [Repo](https://github.com/suyshx31/Deepfake-Detection-Extension) | NA | NA | Python, PyTorch, Keras, Streamlit |
 
+<h2 align="left">🌐 Open Source</h2>
+
+<div align="center">
+
+[![Founding Contributor #19 @suyshx31](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2319%20of%20100%20%E2%80%A2%20%40suyshx31&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
+</div>
+
 <h2 align="left">📜 Certifications</h2>
 
 <p align="center">
